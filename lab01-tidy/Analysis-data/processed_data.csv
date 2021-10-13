@@ -1,0 +1,865 @@
+,country,Year,demography score
+0,Albania,1952,-9
+1,Albania,1957,-9
+2,Albania,1962,-9
+3,Albania,1967,-9
+4,Albania,1972,-9
+5,Albania,1977,-9
+6,Albania,1982,-9
+7,Albania,1987,-9
+8,Albania,1992,5
+9,Argentina,1952,-9
+10,Argentina,1957,-1
+11,Argentina,1962,-1
+12,Argentina,1967,-9
+13,Argentina,1972,-9
+14,Argentina,1977,-9
+15,Argentina,1982,-8
+16,Argentina,1987,8
+17,Argentina,1992,7
+18,Armenia,1952,-9
+19,Armenia,1957,-7
+20,Armenia,1962,-7
+21,Armenia,1967,-7
+22,Armenia,1972,-7
+23,Armenia,1977,-7
+24,Armenia,1982,-7
+25,Armenia,1987,-7
+26,Armenia,1992,7
+27,Australia,1952,10
+28,Australia,1957,10
+29,Australia,1962,10
+30,Australia,1967,10
+31,Australia,1972,10
+32,Australia,1977,10
+33,Australia,1982,10
+34,Australia,1987,10
+35,Australia,1992,10
+36,Austria,1952,10
+37,Austria,1957,10
+38,Austria,1962,10
+39,Austria,1967,10
+40,Austria,1972,10
+41,Austria,1977,10
+42,Austria,1982,10
+43,Austria,1987,10
+44,Austria,1992,10
+45,Azerbaijan,1952,-9
+46,Azerbaijan,1957,-7
+47,Azerbaijan,1962,-7
+48,Azerbaijan,1967,-7
+49,Azerbaijan,1972,-7
+50,Azerbaijan,1977,-7
+51,Azerbaijan,1982,-7
+52,Azerbaijan,1987,-7
+53,Azerbaijan,1992,1
+54,Belarus,1952,-9
+55,Belarus,1957,-7
+56,Belarus,1962,-7
+57,Belarus,1967,-7
+58,Belarus,1972,-7
+59,Belarus,1977,-7
+60,Belarus,1982,-7
+61,Belarus,1987,-7
+62,Belarus,1992,7
+63,Belgium,1952,10
+64,Belgium,1957,10
+65,Belgium,1962,10
+66,Belgium,1967,10
+67,Belgium,1972,10
+68,Belgium,1977,10
+69,Belgium,1982,10
+70,Belgium,1987,10
+71,Belgium,1992,10
+72,Bhutan,1952,-10
+73,Bhutan,1957,-10
+74,Bhutan,1962,-10
+75,Bhutan,1967,-10
+76,Bhutan,1972,-10
+77,Bhutan,1977,-10
+78,Bhutan,1982,-10
+79,Bhutan,1987,-10
+80,Bhutan,1992,-10
+81,Bolivia,1952,-4
+82,Bolivia,1957,-3
+83,Bolivia,1962,-3
+84,Bolivia,1967,-4
+85,Bolivia,1972,-7
+86,Bolivia,1977,-7
+87,Bolivia,1982,8
+88,Bolivia,1987,9
+89,Bolivia,1992,9
+90,Brazil,1952,5
+91,Brazil,1957,5
+92,Brazil,1962,5
+93,Brazil,1967,-9
+94,Brazil,1972,-9
+95,Brazil,1977,-4
+96,Brazil,1982,-3
+97,Brazil,1987,7
+98,Brazil,1992,8
+99,Bulgaria,1952,-7
+100,Bulgaria,1957,-7
+101,Bulgaria,1962,-7
+102,Bulgaria,1967,-7
+103,Bulgaria,1972,-7
+104,Bulgaria,1977,-7
+105,Bulgaria,1982,-7
+106,Bulgaria,1987,-7
+107,Bulgaria,1992,8
+108,Canada,1952,10
+109,Canada,1957,10
+110,Canada,1962,10
+111,Canada,1967,10
+112,Canada,1972,10
+113,Canada,1977,10
+114,Canada,1982,10
+115,Canada,1987,10
+116,Canada,1992,10
+117,Chile,1952,2
+118,Chile,1957,5
+119,Chile,1962,5
+120,Chile,1967,6
+121,Chile,1972,6
+122,Chile,1977,-7
+123,Chile,1982,-7
+124,Chile,1987,-6
+125,Chile,1992,8
+126,China,1952,-8
+127,China,1957,-8
+128,China,1962,-8
+129,China,1967,-9
+130,China,1972,-8
+131,China,1977,-7
+132,China,1982,-7
+133,China,1987,-7
+134,China,1992,-7
+135,Colombia,1952,-5
+136,Colombia,1957,7
+137,Colombia,1962,7
+138,Colombia,1967,7
+139,Colombia,1972,7
+140,Colombia,1977,8
+141,Colombia,1982,8
+142,Colombia,1987,8
+143,Colombia,1992,9
+144,Costa Rica,1952,10
+145,Costa Rica,1957,10
+146,Costa Rica,1962,10
+147,Costa Rica,1967,10
+148,Costa Rica,1972,10
+149,Costa Rica,1977,10
+150,Costa Rica,1982,10
+151,Costa Rica,1987,10
+152,Costa Rica,1992,10
+153,Croatia,1952,-7
+154,Croatia,1957,-7
+155,Croatia,1962,-7
+156,Croatia,1967,-7
+157,Croatia,1972,-7
+158,Croatia,1977,-7
+159,Croatia,1982,-5
+160,Croatia,1987,-5
+161,Croatia,1992,-3
+162,Cuba,1952,0
+163,Cuba,1957,-9
+164,Cuba,1962,-7
+165,Cuba,1967,-7
+166,Cuba,1972,-7
+167,Cuba,1977,-7
+168,Cuba,1982,-7
+169,Cuba,1987,-7
+170,Cuba,1992,-7
+171,Czech Rep.,1952,-7
+172,Czech Rep.,1957,-7
+173,Czech Rep.,1962,-7
+174,Czech Rep.,1967,-7
+175,Czech Rep.,1972,-7
+176,Czech Rep.,1977,-7
+177,Czech Rep.,1982,-7
+178,Czech Rep.,1987,-7
+179,Czech Rep.,1992,8
+180,Denmark,1952,10
+181,Denmark,1957,10
+182,Denmark,1962,10
+183,Denmark,1967,10
+184,Denmark,1972,10
+185,Denmark,1977,10
+186,Denmark,1982,10
+187,Denmark,1987,10
+188,Denmark,1992,10
+189,Dominican Rep.,1952,-9
+190,Dominican Rep.,1957,-9
+191,Dominican Rep.,1962,8
+192,Dominican Rep.,1967,-3
+193,Dominican Rep.,1972,-3
+194,Dominican Rep.,1977,-3
+195,Dominican Rep.,1982,6
+196,Dominican Rep.,1987,6
+197,Dominican Rep.,1992,6
+198,Ecuador,1952,2
+199,Ecuador,1957,2
+200,Ecuador,1962,-1
+201,Ecuador,1967,-1
+202,Ecuador,1972,-5
+203,Ecuador,1977,-5
+204,Ecuador,1982,9
+205,Ecuador,1987,8
+206,Ecuador,1992,9
+207,Egypt,1952,-7
+208,Egypt,1957,-7
+209,Egypt,1962,-7
+210,Egypt,1967,-7
+211,Egypt,1972,-7
+212,Egypt,1977,-6
+213,Egypt,1982,-6
+214,Egypt,1987,-6
+215,Egypt,1992,-6
+216,El Salvador,1952,-6
+217,El Salvador,1957,-5
+218,El Salvador,1962,-3
+219,El Salvador,1967,0
+220,El Salvador,1972,-1
+221,El Salvador,1977,-6
+222,El Salvador,1982,2
+223,El Salvador,1987,6
+224,El Salvador,1992,7
+225,Estonia,1952,-9
+226,Estonia,1957,-7
+227,Estonia,1962,-7
+228,Estonia,1967,-7
+229,Estonia,1972,-7
+230,Estonia,1977,-7
+231,Estonia,1982,-7
+232,Estonia,1987,-7
+233,Estonia,1992,6
+234,Ethiopia,1952,-9
+235,Ethiopia,1957,-9
+236,Ethiopia,1962,-9
+237,Ethiopia,1967,-9
+238,Ethiopia,1972,-9
+239,Ethiopia,1977,-7
+240,Ethiopia,1982,-7
+241,Ethiopia,1987,-8
+242,Ethiopia,1992,0
+243,Finland,1952,10
+244,Finland,1957,10
+245,Finland,1962,10
+246,Finland,1967,10
+247,Finland,1972,10
+248,Finland,1977,10
+249,Finland,1982,10
+250,Finland,1987,10
+251,Finland,1992,10
+252,France,1952,10
+253,France,1957,10
+254,France,1962,5
+255,France,1967,5
+256,France,1972,8
+257,France,1977,8
+258,France,1982,8
+259,France,1987,9
+260,France,1992,9
+261,Georgia,1952,-9
+262,Georgia,1957,-7
+263,Georgia,1962,-7
+264,Georgia,1967,-7
+265,Georgia,1972,-7
+266,Georgia,1977,-7
+267,Georgia,1982,-7
+268,Georgia,1987,-7
+269,Georgia,1992,4
+270,Germany,1952,10
+271,Germany,1957,10
+272,Germany,1962,10
+273,Germany,1967,10
+274,Germany,1972,10
+275,Germany,1977,10
+276,Germany,1982,10
+277,Germany,1987,10
+278,Germany,1992,10
+279,Greece,1952,4
+280,Greece,1957,4
+281,Greece,1962,4
+282,Greece,1967,-7
+283,Greece,1972,-7
+284,Greece,1977,8
+285,Greece,1982,8
+286,Greece,1987,10
+287,Greece,1992,10
+288,Guatemala,1952,2
+289,Guatemala,1957,-6
+290,Guatemala,1962,-5
+291,Guatemala,1967,3
+292,Guatemala,1972,1
+293,Guatemala,1977,-3
+294,Guatemala,1982,-7
+295,Guatemala,1987,3
+296,Guatemala,1992,3
+297,Haiti,1952,-5
+298,Haiti,1957,-5
+299,Haiti,1962,-9
+300,Haiti,1967,-9
+301,Haiti,1972,-10
+302,Haiti,1977,-9
+303,Haiti,1982,-9
+304,Haiti,1987,-8
+305,Haiti,1992,-7
+306,Honduras,1952,-3
+307,Honduras,1957,-1
+308,Honduras,1962,-1
+309,Honduras,1967,-1
+310,Honduras,1972,-1
+311,Honduras,1977,-1
+312,Honduras,1982,6
+313,Honduras,1987,5
+314,Honduras,1992,6
+315,Hungary,1952,-7
+316,Hungary,1957,-7
+317,Hungary,1962,-7
+318,Hungary,1967,-7
+319,Hungary,1972,-7
+320,Hungary,1977,-7
+321,Hungary,1982,-7
+322,Hungary,1987,-7
+323,Hungary,1992,10
+324,India,1952,9
+325,India,1957,9
+326,India,1962,9
+327,India,1967,9
+328,India,1972,9
+329,India,1977,8
+330,India,1982,8
+331,India,1987,8
+332,India,1992,8
+333,Indonesia,1952,0
+334,Indonesia,1957,-1
+335,Indonesia,1962,-5
+336,Indonesia,1967,-7
+337,Indonesia,1972,-7
+338,Indonesia,1977,-7
+339,Indonesia,1982,-7
+340,Indonesia,1987,-7
+341,Indonesia,1992,-7
+342,Iran,1952,-1
+343,Iran,1957,-10
+344,Iran,1962,-10
+345,Iran,1967,-10
+346,Iran,1972,-10
+347,Iran,1977,-10
+348,Iran,1982,-6
+349,Iran,1987,-6
+350,Iran,1992,-6
+351,Iraq,1952,-4
+352,Iraq,1957,-4
+353,Iraq,1962,-5
+354,Iraq,1967,-5
+355,Iraq,1972,-7
+356,Iraq,1977,-7
+357,Iraq,1982,-9
+358,Iraq,1987,-9
+359,Iraq,1992,-9
+360,Ireland,1952,10
+361,Ireland,1957,10
+362,Ireland,1962,10
+363,Ireland,1967,10
+364,Ireland,1972,10
+365,Ireland,1977,10
+366,Ireland,1982,10
+367,Ireland,1987,10
+368,Ireland,1992,10
+369,Israel,1952,10
+370,Israel,1957,10
+371,Israel,1962,10
+372,Israel,1967,9
+373,Israel,1972,9
+374,Israel,1977,9
+375,Israel,1982,9
+376,Israel,1987,9
+377,Israel,1992,9
+378,Italy,1952,10
+379,Italy,1957,10
+380,Italy,1962,10
+381,Italy,1967,10
+382,Italy,1972,10
+383,Italy,1977,10
+384,Italy,1982,10
+385,Italy,1987,10
+386,Italy,1992,10
+387,Japan,1952,10
+388,Japan,1957,10
+389,Japan,1962,10
+390,Japan,1967,10
+391,Japan,1972,10
+392,Japan,1977,10
+393,Japan,1982,10
+394,Japan,1987,10
+395,Japan,1992,10
+396,Jordan,1952,-1
+397,Jordan,1957,-9
+398,Jordan,1962,-9
+399,Jordan,1967,-9
+400,Jordan,1972,-9
+401,Jordan,1977,-10
+402,Jordan,1982,-10
+403,Jordan,1987,-9
+404,Jordan,1992,-2
+405,Kazakhstan,1952,-9
+406,Kazakhstan,1957,-7
+407,Kazakhstan,1962,-7
+408,Kazakhstan,1967,-7
+409,Kazakhstan,1972,-7
+410,Kazakhstan,1977,-7
+411,Kazakhstan,1982,-7
+412,Kazakhstan,1987,-7
+413,Kazakhstan,1992,-3
+414,"Korea, Dem. Rep.",1952,-7
+415,"Korea, Dem. Rep.",1957,-8
+416,"Korea, Dem. Rep.",1962,-8
+417,"Korea, Dem. Rep.",1967,-9
+418,"Korea, Dem. Rep.",1972,-9
+419,"Korea, Dem. Rep.",1977,-9
+420,"Korea, Dem. Rep.",1982,-9
+421,"Korea, Dem. Rep.",1987,-9
+422,"Korea, Dem. Rep.",1992,-9
+423,"Korea, Rep.",1952,-4
+424,"Korea, Rep.",1957,-4
+425,"Korea, Rep.",1962,-7
+426,"Korea, Rep.",1967,3
+427,"Korea, Rep.",1972,-9
+428,"Korea, Rep.",1977,-8
+429,"Korea, Rep.",1982,-5
+430,"Korea, Rep.",1987,1
+431,"Korea, Rep.",1992,6
+432,Kyrgyzstan,1952,-9
+433,Kyrgyzstan,1957,-7
+434,Kyrgyzstan,1962,-7
+435,Kyrgyzstan,1967,-7
+436,Kyrgyzstan,1972,-7
+437,Kyrgyzstan,1977,-7
+438,Kyrgyzstan,1982,-7
+439,Kyrgyzstan,1987,-7
+440,Kyrgyzstan,1992,-3
+441,Latvia,1952,-9
+442,Latvia,1957,-7
+443,Latvia,1962,-7
+444,Latvia,1967,-7
+445,Latvia,1972,-7
+446,Latvia,1977,-7
+447,Latvia,1982,-7
+448,Latvia,1987,-7
+449,Latvia,1992,8
+450,Lebanon,1952,2
+451,Lebanon,1957,2
+452,Lebanon,1962,2
+453,Lebanon,1967,2
+454,Lebanon,1972,5
+455,Lebanon,1977,0
+456,Lebanon,1982,0
+457,Lebanon,1987,0
+458,Lebanon,1992,0
+459,Liberia,1952,-6
+460,Liberia,1957,-6
+461,Liberia,1962,-6
+462,Liberia,1967,-6
+463,Liberia,1972,-6
+464,Liberia,1977,-6
+465,Liberia,1982,-7
+466,Liberia,1987,-6
+467,Liberia,1992,0
+468,Libya,1952,-7
+469,Libya,1957,-7
+470,Libya,1962,-7
+471,Libya,1967,-7
+472,Libya,1972,-7
+473,Libya,1977,-7
+474,Libya,1982,-7
+475,Libya,1987,-7
+476,Libya,1992,-7
+477,Lithuania,1952,-9
+478,Lithuania,1957,-7
+479,Lithuania,1962,-7
+480,Lithuania,1967,-7
+481,Lithuania,1972,-7
+482,Lithuania,1977,-7
+483,Lithuania,1982,-7
+484,Lithuania,1987,-7
+485,Lithuania,1992,10
+486,"Macedonia, FYR",1952,-7
+487,"Macedonia, FYR",1957,-7
+488,"Macedonia, FYR",1962,-7
+489,"Macedonia, FYR",1967,-7
+490,"Macedonia, FYR",1972,-7
+491,"Macedonia, FYR",1977,-7
+492,"Macedonia, FYR",1982,-5
+493,"Macedonia, FYR",1987,-5
+494,"Macedonia, FYR",1992,6
+495,Mexico,1952,-6
+496,Mexico,1957,-6
+497,Mexico,1962,-6
+498,Mexico,1967,-6
+499,Mexico,1972,-6
+500,Mexico,1977,-3
+501,Mexico,1982,-3
+502,Mexico,1987,-3
+503,Mexico,1992,0
+504,Moldova,1952,-9
+505,Moldova,1957,-7
+506,Moldova,1962,-7
+507,Moldova,1967,-7
+508,Moldova,1972,-7
+509,Moldova,1977,-7
+510,Moldova,1982,-7
+511,Moldova,1987,-7
+512,Moldova,1992,5
+513,Mongolia,1952,-7
+514,Mongolia,1957,-7
+515,Mongolia,1962,-7
+516,Mongolia,1967,-7
+517,Mongolia,1972,-7
+518,Mongolia,1977,-7
+519,Mongolia,1982,-7
+520,Mongolia,1987,-7
+521,Mongolia,1992,9
+522,Montenegro,1952,-7
+523,Montenegro,1957,-7
+524,Montenegro,1962,-7
+525,Montenegro,1967,-7
+526,Montenegro,1972,-7
+527,Montenegro,1977,-7
+528,Montenegro,1982,-5
+529,Montenegro,1987,-5
+530,Montenegro,1992,-5
+531,Myanmar,1952,8
+532,Myanmar,1957,8
+533,Myanmar,1962,-6
+534,Myanmar,1967,-7
+535,Myanmar,1972,-7
+536,Myanmar,1977,-6
+537,Myanmar,1982,-8
+538,Myanmar,1987,-8
+539,Myanmar,1992,-7
+540,Nepal,1952,-7
+541,Nepal,1957,-4
+542,Nepal,1962,-9
+543,Nepal,1967,-9
+544,Nepal,1972,-9
+545,Nepal,1977,-9
+546,Nepal,1982,-2
+547,Nepal,1987,-2
+548,Nepal,1992,5
+549,Netherlands,1952,10
+550,Netherlands,1957,10
+551,Netherlands,1962,10
+552,Netherlands,1967,10
+553,Netherlands,1972,10
+554,Netherlands,1977,10
+555,Netherlands,1982,10
+556,Netherlands,1987,10
+557,Netherlands,1992,10
+558,New Zealand,1952,10
+559,New Zealand,1957,10
+560,New Zealand,1962,10
+561,New Zealand,1967,10
+562,New Zealand,1972,10
+563,New Zealand,1977,10
+564,New Zealand,1982,10
+565,New Zealand,1987,10
+566,New Zealand,1992,10
+567,Nicaragua,1952,-8
+568,Nicaragua,1957,-8
+569,Nicaragua,1962,-8
+570,Nicaragua,1967,-8
+571,Nicaragua,1972,-8
+572,Nicaragua,1977,-8
+573,Nicaragua,1982,-5
+574,Nicaragua,1987,-1
+575,Nicaragua,1992,6
+576,Norway,1952,10
+577,Norway,1957,10
+578,Norway,1962,10
+579,Norway,1967,10
+580,Norway,1972,10
+581,Norway,1977,10
+582,Norway,1982,10
+583,Norway,1987,10
+584,Norway,1992,10
+585,Oman,1952,-6
+586,Oman,1957,-10
+587,Oman,1962,-10
+588,Oman,1967,-10
+589,Oman,1972,-10
+590,Oman,1977,-10
+591,Oman,1982,-10
+592,Oman,1987,-10
+593,Oman,1992,-9
+594,Pakistan,1952,5
+595,Pakistan,1957,8
+596,Pakistan,1962,1
+597,Pakistan,1967,1
+598,Pakistan,1972,4
+599,Pakistan,1977,-7
+600,Pakistan,1982,-7
+601,Pakistan,1987,-4
+602,Pakistan,1992,8
+603,Panama,1952,-1
+604,Panama,1957,4
+605,Panama,1962,4
+606,Panama,1967,4
+607,Panama,1972,-7
+608,Panama,1977,-7
+609,Panama,1982,-5
+610,Panama,1987,-8
+611,Panama,1992,8
+612,Paraguay,1952,-5
+613,Paraguay,1957,-9
+614,Paraguay,1962,-9
+615,Paraguay,1967,-8
+616,Paraguay,1972,-8
+617,Paraguay,1977,-8
+618,Paraguay,1982,-8
+619,Paraguay,1987,-8
+620,Paraguay,1992,7
+621,Peru,1952,-2
+622,Peru,1957,5
+623,Peru,1962,-6
+624,Peru,1967,5
+625,Peru,1972,-7
+626,Peru,1977,-7
+627,Peru,1982,7
+628,Peru,1987,7
+629,Peru,1992,-3
+630,Philippines,1952,5
+631,Philippines,1957,5
+632,Philippines,1962,5
+633,Philippines,1967,5
+634,Philippines,1972,-9
+635,Philippines,1977,-9
+636,Philippines,1982,-7
+637,Philippines,1987,8
+638,Philippines,1992,8
+639,Poland,1952,-7
+640,Poland,1957,-7
+641,Poland,1962,-7
+642,Poland,1967,-7
+643,Poland,1972,-7
+644,Poland,1977,-7
+645,Poland,1982,-8
+646,Poland,1987,-6
+647,Poland,1992,8
+648,Portugal,1952,-9
+649,Portugal,1957,-9
+650,Portugal,1962,-9
+651,Portugal,1967,-9
+652,Portugal,1972,-9
+653,Portugal,1977,9
+654,Portugal,1982,10
+655,Portugal,1987,10
+656,Portugal,1992,10
+657,Romania,1952,-7
+658,Romania,1957,-7
+659,Romania,1962,-7
+660,Romania,1967,-7
+661,Romania,1972,-7
+662,Romania,1977,-8
+663,Romania,1982,-8
+664,Romania,1987,-8
+665,Romania,1992,5
+666,Russia,1952,-9
+667,Russia,1957,-7
+668,Russia,1962,-7
+669,Russia,1967,-7
+670,Russia,1972,-7
+671,Russia,1977,-7
+672,Russia,1982,-7
+673,Russia,1987,-7
+674,Russia,1992,5
+675,Saudi Arabia,1952,-10
+676,Saudi Arabia,1957,-10
+677,Saudi Arabia,1962,-10
+678,Saudi Arabia,1967,-10
+679,Saudi Arabia,1972,-10
+680,Saudi Arabia,1977,-10
+681,Saudi Arabia,1982,-10
+682,Saudi Arabia,1987,-10
+683,Saudi Arabia,1992,-10
+684,Serbia,1952,-7
+685,Serbia,1957,-7
+686,Serbia,1962,-7
+687,Serbia,1967,-7
+688,Serbia,1972,-7
+689,Serbia,1977,-7
+690,Serbia,1982,-5
+691,Serbia,1987,-5
+692,Serbia,1992,-5
+693,Slovak Republic,1952,-7
+694,Slovak Republic,1957,-7
+695,Slovak Republic,1962,-7
+696,Slovak Republic,1967,-7
+697,Slovak Republic,1972,-7
+698,Slovak Republic,1977,-7
+699,Slovak Republic,1982,-7
+700,Slovak Republic,1987,-7
+701,Slovak Republic,1992,8
+702,Slovenia,1952,-7
+703,Slovenia,1957,-7
+704,Slovenia,1962,-7
+705,Slovenia,1967,-7
+706,Slovenia,1972,-7
+707,Slovenia,1977,-7
+708,Slovenia,1982,-5
+709,Slovenia,1987,-5
+710,Slovenia,1992,10
+711,South Africa,1952,4
+712,South Africa,1957,4
+713,South Africa,1962,4
+714,South Africa,1967,4
+715,South Africa,1972,4
+716,South Africa,1977,4
+717,South Africa,1982,4
+718,South Africa,1987,4
+719,South Africa,1992,6
+720,Spain,1952,-7
+721,Spain,1957,-7
+722,Spain,1962,-7
+723,Spain,1967,-7
+724,Spain,1972,-7
+725,Spain,1977,5
+726,Spain,1982,10
+727,Spain,1987,10
+728,Spain,1992,10
+729,Sri Lanka,1952,7
+730,Sri Lanka,1957,7
+731,Sri Lanka,1962,7
+732,Sri Lanka,1967,7
+733,Sri Lanka,1972,8
+734,Sri Lanka,1977,8
+735,Sri Lanka,1982,5
+736,Sri Lanka,1987,5
+737,Sri Lanka,1992,5
+738,Sweden,1952,10
+739,Sweden,1957,10
+740,Sweden,1962,10
+741,Sweden,1967,10
+742,Sweden,1972,10
+743,Sweden,1977,10
+744,Sweden,1982,10
+745,Sweden,1987,10
+746,Sweden,1992,10
+747,Switzerland,1952,10
+748,Switzerland,1957,10
+749,Switzerland,1962,10
+750,Switzerland,1967,10
+751,Switzerland,1972,10
+752,Switzerland,1977,10
+753,Switzerland,1982,10
+754,Switzerland,1987,10
+755,Switzerland,1992,10
+756,Syria,1952,-7
+757,Syria,1957,7
+758,Syria,1962,-2
+759,Syria,1967,-7
+760,Syria,1972,-9
+761,Syria,1977,-9
+762,Syria,1982,-9
+763,Syria,1987,-9
+764,Syria,1992,-9
+765,Taiwan,1952,-8
+766,Taiwan,1957,-8
+767,Taiwan,1962,-8
+768,Taiwan,1967,-8
+769,Taiwan,1972,-8
+770,Taiwan,1977,-7
+771,Taiwan,1982,-7
+772,Taiwan,1987,-1
+773,Taiwan,1992,7
+774,Tajikistan,1952,-9
+775,Tajikistan,1957,-7
+776,Tajikistan,1962,-7
+777,Tajikistan,1967,-7
+778,Tajikistan,1972,-7
+779,Tajikistan,1977,-7
+780,Tajikistan,1982,-7
+781,Tajikistan,1987,-7
+782,Tajikistan,1992,-6
+783,Thailand,1952,-6
+784,Thailand,1957,-3
+785,Thailand,1962,-7
+786,Thailand,1967,-7
+787,Thailand,1972,-7
+788,Thailand,1977,-2
+789,Thailand,1982,2
+790,Thailand,1987,2
+791,Thailand,1992,9
+792,Turkey,1952,7
+793,Turkey,1957,4
+794,Turkey,1962,9
+795,Turkey,1967,8
+796,Turkey,1972,-2
+797,Turkey,1977,9
+798,Turkey,1982,-5
+799,Turkey,1987,7
+800,Turkey,1992,9
+801,Turkmenistan,1952,-9
+802,Turkmenistan,1957,-7
+803,Turkmenistan,1962,-7
+804,Turkmenistan,1967,-7
+805,Turkmenistan,1972,-7
+806,Turkmenistan,1977,-7
+807,Turkmenistan,1982,-7
+808,Turkmenistan,1987,-7
+809,Turkmenistan,1992,-9
+810,Ukraine,1952,-9
+811,Ukraine,1957,-7
+812,Ukraine,1962,-7
+813,Ukraine,1967,-7
+814,Ukraine,1972,-7
+815,Ukraine,1977,-7
+816,Ukraine,1982,-7
+817,Ukraine,1987,-7
+818,Ukraine,1992,6
+819,United Kingdom,1952,10
+820,United Kingdom,1957,10
+821,United Kingdom,1962,10
+822,United Kingdom,1967,10
+823,United Kingdom,1972,10
+824,United Kingdom,1977,10
+825,United Kingdom,1982,10
+826,United Kingdom,1987,10
+827,United Kingdom,1992,10
+828,United States,1952,10
+829,United States,1957,10
+830,United States,1962,10
+831,United States,1967,10
+832,United States,1972,10
+833,United States,1977,10
+834,United States,1982,10
+835,United States,1987,10
+836,United States,1992,10
+837,Uruguay,1952,8
+838,Uruguay,1957,8
+839,Uruguay,1962,8
+840,Uruguay,1967,8
+841,Uruguay,1972,-3
+842,Uruguay,1977,-8
+843,Uruguay,1982,-7
+844,Uruguay,1987,9
+845,Uruguay,1992,10
+846,Uzbekistan,1952,-9
+847,Uzbekistan,1957,-7
+848,Uzbekistan,1962,-7
+849,Uzbekistan,1967,-7
+850,Uzbekistan,1972,-7
+851,Uzbekistan,1977,-7
+852,Uzbekistan,1982,-7
+853,Uzbekistan,1987,-7
+854,Uzbekistan,1992,-9
+855,Venezuela,1952,-3
+856,Venezuela,1957,-3
+857,Venezuela,1962,6
+858,Venezuela,1967,6
+859,Venezuela,1972,9
+860,Venezuela,1977,9
+861,Venezuela,1982,9
+862,Venezuela,1987,9
+863,Venezuela,1992,8
